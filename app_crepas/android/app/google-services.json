@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26689362584",
+    "project_id": "misscreps-d2687",
+    "storage_bucket": "misscreps-d2687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26689362584:android:669b5206a4e6ecdabb0eed",
+        "android_client_info": {
+          "package_name": "com.example.app_crepas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxlbyoebOG2j-Cckb1jtABr_1d88yZkWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
